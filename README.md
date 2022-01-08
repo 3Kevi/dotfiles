@@ -1,7 +1,7 @@
 ![](/.github/screenshots/1.png)
 
 ### Welcome!
-Here you can find dotfiles for my Void Linux system.
+Here you can find my Void Linux dotfiles.
 
 ### Overview
 - OS: Void
