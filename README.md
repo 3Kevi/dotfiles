@@ -7,7 +7,7 @@ Here you can find dotfiles for my Linux system.
 
 ### Overview:
 - OS: Void
-- Window Manager: bspwm
+- Window manager: bspwm
 - Terminal: kitty
 - Shell: zsh
 - Bar: Polybar
