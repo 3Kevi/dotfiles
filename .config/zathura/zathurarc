@@ -1,0 +1,38 @@
+set font                        'Iosevka Medium Extended 10'
+
+set default-bg                  "#00010a"
+set default-fg                  "#e5e9f0"
+
+set statusbar-bg                "#0f111a"
+set statusbar-fg                "#e5e9f0"
+
+set inputbar-bg                 "#0f111a"
+set inputbar-fg                 "#e5e9f0"
+
+set notification-bg             "#0f111a"
+set notification-fg             "#80cbc4"
+
+set notification-error-bg       "#0f111a"
+set notification-error-fg       "#f07178"
+
+set notification-warning-bg     "#0f111a"
+set notification-warning-fg     "#ffcb6b"
+
+set recolor-lightcolor          "#00010a"
+set recolor-darkcolor           "#e5e9f0"
+
+set completion-bg               "#00010a"
+set completion-fg               "#e5e9f0"
+
+set completion-highlight-bg     "#1b1f2f"
+set completion-highlight-fg     "#e5e9f0"
+
+set highlight-color             "#e5e9f0"
+set highlight-transparency      0.2              
+
+set recolor                     true
+set adjust-open                 "best-fit"
+
+map <Left>                      navigate previous
+map <Right>                     navigate next
+map s                           toggle_statusbar 
