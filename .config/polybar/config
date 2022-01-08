@@ -27,10 +27,8 @@ module-margin-left = 1
 module-margin-right = 1
 
 font-0 = Iosevka Nerd Font:style=Semibold,Regular:size=11;4
-font-1 = Font Awesome 5 Free:style=Solid:size=11;4
-font-2 = Font Awesome 5 Free:style=Regular:size=11;4
-font-3 = Font Awesome 5 Brands:style=Regular:size=11;4
-font-4 = Material Design Icons:style=Regular:size=11;4
+font-1 = Font Awesome 5:size=11;4
+font-2 = Material Design Icons:size=11;4
 
 wm-restack = bspwm
 tray-position = none
@@ -60,10 +58,8 @@ module-margin-left = 1
 module-margin-right = 1
 
 font-0 = Iosevka Nerd Font:style=Semibold,Regular:size=11;4
-font-1 = Font Awesome 5 Free:style=Solid:size=9;4
-font-2 = Font Awesome 5 Free:style=Regular:size=9;4
-font-3 = Font Awesome 5 Brands:style=Regular:size=9;4
-font-4 = Material Design Icons:style=Regular:size=11;4
+font-1 = Font Awesome 5:size=11;4
+font-2 = Material Design Icons:size=11;4
 
 wm-restack = bspwm
 tray-position = right
