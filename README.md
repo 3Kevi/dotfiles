@@ -1,9 +1,9 @@
 ![](/.github/screenshots/1.png)
 
 ### Welcome!
-Here you can find dotfiles for my Linux system.
+Here you can find dotfiles for my Void Linux system.
 
-### Overview:
+### Overview
 - OS: Void
 - Window manager: bspwm
 - Terminal: kitty
@@ -18,7 +18,7 @@ Here you can find dotfiles for my Linux system.
 I use [Material Ocean](https://material-theme.site). Here are some of the colours:
 
 | Colour                                 | HEX       |
-|--------------------------------------- |-----------|
+|----------------------------------------|-----------|
 | ![](/.github/color-palette/00010a.svg) | `#00010A` |
 | ![](/.github/color-palette/e5e9f0.svg) | `#E5E9F0` |
 | ![](/.github/color-palette/0f111a.svg) | `#0F111A` |
