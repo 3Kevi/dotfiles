@@ -1,0 +1,66 @@
+* {
+	bg:				#00010a;
+	fg:				#e5e9f0;
+	button:				#0f111a;
+
+	background-color:		@bg;
+	text-color:			@fg;
+}
+
+window {
+	transparency:                   "real";
+	width:			    	26%;
+        border:                         16px;
+        border-color:                   @bg;
+}
+
+mainbox {
+        border:                         2px;
+        border-color:                   #80cbc4;
+}
+
+prompt { enabled: false; }
+
+entry {
+	placeholder:			"Search";
+	placeholder-color:              #4c566a;
+        background-color:               @button;
+	expand:                         true;
+	padding:                        1.5% 1.5% 1.5% 1%;
+}
+
+inputbar {
+	children: 			[ prompt, entry ];
+	background-color:               @bg;
+	expand:                         false;
+	padding:                        16px 16px 16px 16px;
+}
+
+listview {
+	columns:                        1;
+	lines:	                        4;
+	cycle:                          false;
+	dynamic:                        true;
+	layout:                         vertical;
+	padding:			16px 16px 16px 16px;
+}
+
+mainbox { children: [ inputbar, listview ]; }
+
+element {
+	orientation:                    vertical;
+	padding:                        1.5% 0% 1.5% 0%;
+}
+
+element-text {
+	expand:                         true;
+	vertical-align:                 0.5;
+	margin:                         0% 0% 0% 1%;
+	background-color: 		inherit;
+	text-color:       		inherit;
+        highlight:                      #f07178;
+}
+
+element selected {
+	background-color:               @button;
+}
