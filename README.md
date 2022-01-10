@@ -30,3 +30,8 @@ I use [Material Ocean](https://material-theme.site). Here are some of the colour
 | ![](/.github/color-palette/80cbc4.svg) | `#80CBC4` |
 | ![](/.github/color-palette/82aaff.svg) | `#82AAFF` |
 | ![](/.github/color-palette/c792ea.svg) | `#C792EA` |
+
+### Credits
+- ![Stardust-kyun](https://github.com/stardust-kyun/dotfiles)
+- ![Manas](https://github.com/manas140/dotfiles)
+- ![joni22u's Rofi themes](https://github.com/FrenzyExists/rofi-themes)
