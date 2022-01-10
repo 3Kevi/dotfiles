@@ -1,5 +1,4 @@
 ### Notes
-Some of the programs use Iosevka Extended font. If you want it to work, you have to install Iosevka.
-Installation instrustions:
+Some of the programs use Iosevka Extended font.
+Installation instructions:
 https://github.com/be5invis/Iosevka#installation
-
