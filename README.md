@@ -31,7 +31,7 @@ I use [Material Ocean](https://material-theme.site). Here are some of the colour
 | ![](/.github/color-palette/82aaff.svg) | `#82AAFF` |
 | ![](/.github/color-palette/c792ea.svg) | `#C792EA` |
 
-### Credits
+### Special Thanks
 - [Stardust-kyun](https://github.com/stardust-kyun/dotfiles)
 - [Manas](https://github.com/manas140/dotfiles)
 - [joni22u's Rofi themes](https://github.com/FrenzyExists/rofi-themes)
