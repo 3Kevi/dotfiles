@@ -3,18 +3,22 @@
 xrandr --output HDMI-0 --primary --mode 1920x1080 --rate 75.00 --left-of eDP
 xsetroot -cursor_name left_ptr
 
+# Autostart
 killall sxhkd ; sxhkd &
 killall picom ; picom &
 killall redshift ; redshift &
 feh --bg-fill ~/Pictures/wallpapers/octopus.jpg
 $HOME/.config/polybar/launch.sh &
 
+# Alises
 alias bc='bspc config'
 alias br='bspc rule -a'
 
+# Workspaces
 bspc monitor HDMI-0 -d I II III
 bspc monitor eDP    -d IV V VI
 
+# Borders & gaps
 bc top_padding           44
 bc border_width          8
 bc window_gap            8
@@ -26,6 +30,7 @@ bc focused_border_color "#1b1f2f"
 bc active_border_color  "#0f111a"
 bc normal_border_color  "#0f111a"
 
+# Rules
 br kitty   state=floating
 br feh     state=floating
 br mpv     state=floating rectangle=854x480+0+0 center=true
