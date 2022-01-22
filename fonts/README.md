@@ -1,4 +1,4 @@
-### Notes
+## Note
 Some of the programs use Iosevka Extended font.
 
 Installation instructions:
