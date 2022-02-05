@@ -32,6 +32,7 @@ bc normal_border_color  "#0f111a"
 
 # rules
 br kitty   state=floating
+br Tym     state=floating rectangle=592x334+0+0 center=true
 br feh     state=floating
 br mpv     state=floating rectangle=854x480+0+0 center=true
 br Zathura state=floating rectangle=536x836+0+0 center=true
