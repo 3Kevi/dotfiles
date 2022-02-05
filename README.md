@@ -6,7 +6,7 @@ Here you can find my Void Linux dotfiles.
 ## Overview
 - OS: Void
 - Window manager: bspwm
-- Terminal: kitty
+- Terminal: [tym](https://github.com/endaaman/tym)
 - Shell: zsh
 - Bar: Polybar
 - Compositor: picom
