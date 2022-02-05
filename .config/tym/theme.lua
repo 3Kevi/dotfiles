@@ -1,7 +1,7 @@
 local bg        = '#00010a'
 local fg        = '#e5e9f0'
 
-local black      = '#0f111a'
+local black     = '#0f111a'
 local red       = '#f07178'
 local green     = '#80cbc4'
 local yellow    = '#ffcb6b'
