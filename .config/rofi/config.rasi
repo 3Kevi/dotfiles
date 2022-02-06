@@ -1,9 +1,9 @@
 configuration {
-        modi:                           "drun";
-        font:                           "Iosevka Nerd Font Semibold 10";
-        display-drun:                   "";
-        drun-display-format:            "{name}";
-        terminal:                       "tym";
+    modi:                   "drun";
+    font:                   "Iosevka Nerd Font Semibold 10";
+    display-drun:           "";
+    drun-display-format:    "{name}";
+    terminal:               "tym";
 }
 
 @theme "theme"
