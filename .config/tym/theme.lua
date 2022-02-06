@@ -3,7 +3,7 @@ local fg        = '#e5e9f0'
 
 local black     = '#0f111a'
 local red       = '#f07178'
-local green     = '#80cbc4'
+local green     = '#80cc9e'
 local yellow    = '#ffcb6b'
 local blue      = '#82aaff'
 local magenta   = '#c792ea'
@@ -20,7 +20,7 @@ return {
   color_highlight               = cyan,
   color_highlight_foreground    = bg,
   
-  color_0       = bg,
+  color_0       = black,
   color_8       = black,
 
   color_1       = red,
