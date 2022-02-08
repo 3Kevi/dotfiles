@@ -39,7 +39,7 @@ return {
   color_13      = magenta,
   
   color_6       = cyan,
-  color_13      = cyan,
+  color_14      = cyan,
   
   color_7       = white,
   color_15      = white,
