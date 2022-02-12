@@ -34,4 +34,4 @@ I use [Material Ocean](https://material-theme.site). Here are some of the colour
 ## Special Thanks
 - [Stardust-kyun](https://github.com/stardust-kyun/dotfiles)
 - [Manas](https://github.com/manas140/dotfiles)
-- joni22u's Rofi themes
+- [joni's Rofi themes](https://github.com/joni84/rofi)
