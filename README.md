@@ -17,19 +17,28 @@ Here you can find my Void Linux dotfiles.
 ## Colour scheme
 I use [Material Ocean](https://material-theme.site). Here are some of the colours:
 
-| Colour                                 | HEX       |
-|----------------------------------------|-----------|
-| ![](/.github/color-palette/00010a.svg) | `#00010A` |
-| ![](/.github/color-palette/e5e9f0.svg) | `#E5E9F0` |
-| ![](/.github/color-palette/0f111a.svg) | `#0F111A` |
-| ![](/.github/color-palette/3b4252.svg) | `#3B4252` |
-| ![](/.github/color-palette/4c566a.svg) | `#4C566A` |
-| ![](/.github/color-palette/f07178.svg) | `#F07178` |
-| ![](/.github/color-palette/ffcb6b.svg) | `#FFCB6B` |
-| ![](/.github/color-palette/80cc9e.svg) | `#80CC9E` |
-| ![](/.github/color-palette/80cbc4.svg) | `#80CBC4` |
-| ![](/.github/color-palette/82aaff.svg) | `#82AAFF` |
-| ![](/.github/color-palette/c792ea.svg) | `#C792EA` |
+<table>
+    <tr>
+        <th><code>#00010A</code></th>
+        <th><code>#F07178</code></th>
+        <th><code>#80CC9E</code></th>
+        <th><code>#FFCB6B</code></th>
+        <th><code>#82AAFF</code></th>
+        <th><code>#C792EA</code></th>
+        <th><code>#80CCB4</code></th>
+        <th><code>#E5E9F0</code></th>
+    </tr>
+    <tr>
+        <td><img src="https://via.placeholder.com/48/00010a/black?text=+"</td>
+        <td><img src="https://via.placeholder.com/48/f07178/red?text=+"></td>
+        <td><img src="https://via.placeholder.com/48/80cc9e/green?text=+"></td>
+        <td><img src="https://via.placeholder.com/48/ffcb6b/yellow?text=+"></td>
+        <td><img src="https://via.placeholder.com/48/82aaff/blue?text=+"></td>
+        <td><img src="https://via.placeholder.com/48/c792ea/magenta?text=+"></td>
+        <td><img src="https://via.placeholder.com/48/80cbc4/cyan?text=+"></td>
+        <td><img src="https://via.placeholder.com/48/e5e9f0/white?text=+"></td>
+    </tr>
+</table
 
 ## Special Thanks
 - [Stardust-kyun](https://github.com/stardust-kyun/dotfiles)
