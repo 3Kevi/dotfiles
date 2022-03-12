@@ -29,14 +29,14 @@ I use [Material Ocean](https://material-theme.site). Here are some of the colour
         <th><code>#E5E9F0</code></th>
     </tr>
     <tr>
-        <td><img src="https://via.placeholder.com/48/00010a/black?text=+"</td>
-        <td><img src="https://via.placeholder.com/48/f07178/red?text=+"></td>
-        <td><img src="https://via.placeholder.com/48/80cc9e/green?text=+"></td>
-        <td><img src="https://via.placeholder.com/48/ffcb6b/yellow?text=+"></td>
-        <td><img src="https://via.placeholder.com/48/82aaff/blue?text=+"></td>
-        <td><img src="https://via.placeholder.com/48/c792ea/magenta?text=+"></td>
-        <td><img src="https://via.placeholder.com/48/80cbc4/cyan?text=+"></td>
-        <td><img src="https://via.placeholder.com/48/e5e9f0/white?text=+"></td>
+        <td><img src="https://via.placeholder.com/70/00010a/black?text=+"</td>
+        <td><img src="https://via.placeholder.com/70/f07178/red?text=+"></td>
+        <td><img src="https://via.placeholder.com/70/80cc9e/green?text=+"></td>
+        <td><img src="https://via.placeholder.com/70/ffcb6b/yellow?text=+"></td>
+        <td><img src="https://via.placeholder.com/70/82aaff/blue?text=+"></td>
+        <td><img src="https://via.placeholder.com/70/c792ea/magenta?text=+"></td>
+        <td><img src="https://via.placeholder.com/70/80cbc4/cyan?text=+"></td>
+        <td><img src="https://via.placeholder.com/70/e5e9f0/white?text=+"></td>
     </tr>
 </table
 
