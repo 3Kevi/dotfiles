@@ -14,7 +14,7 @@ Here you can find my Void Linux dotfiles.
 - PDF viewer: Zathura
 - Hotkey daemon: sxhkd
 
-## Colour scheme
+<!--- ## Colour scheme
 I use [Material Ocean](https://material-theme.site). Here are some of the colours:
 
 <table>
@@ -38,7 +38,7 @@ I use [Material Ocean](https://material-theme.site). Here are some of the colour
         <td><img src="https://via.placeholder.com/70/80cbc4/cyan?text=+"></td>
         <td><img src="https://via.placeholder.com/70/e5e9f0/white?text=+"></td>
     </tr>
-</table>
+</table> --->
 
 ## Special Thanks
 - [Stardust-kyun](https://github.com/stardust-kyun/dotfiles)
