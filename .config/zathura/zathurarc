@@ -35,4 +35,6 @@ set adjust-open                 "best-fit"
 
 map <Left>                      navigate previous
 map <Right>                     navigate next
-map s                           toggle_statusbar 
+map s                           toggle_statusbar
+map k                           jumplist forward
+map j                           jumplist backward
