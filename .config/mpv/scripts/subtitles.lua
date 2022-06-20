@@ -1,5 +1,5 @@
 --[[
-This script was not made by samhippo.
+This script was made by samhippo.
 https://github.com/samhippo/mpv-scripts/blob/master/sub-priority.lua
 --]]
 
