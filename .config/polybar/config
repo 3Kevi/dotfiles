@@ -59,7 +59,7 @@ tray-position = right
 
 modules-left = date
 modules-center = bspwm
-modules-right = keyboard alsa network
+modules-right = keyboard sound network
 
 [module/bspwm]
 type = internal/bspwm
